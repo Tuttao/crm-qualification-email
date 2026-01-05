@@ -36,7 +36,7 @@ The goal is to eliminate manual lead qualification and ensure that sales teams f
 
 ---
 
-## ⚙️ Workflow Logic (High-Level)
+## ⚙️ Workflow Logic
 
 - Gmail Trigger listens for incoming replies  
 - Email content is extracted and normalized  
